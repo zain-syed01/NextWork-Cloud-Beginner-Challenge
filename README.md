@@ -41,9 +41,6 @@ AWS professionals help build and maintain the cloud infrastructure that powers m
 
 ## Excited to share my progress! Let's connect.
 
-### To learn with other AWS students and get support, I'm joining the NextWork community.
-
-![Image](http://learn.nextwork.org/contented_red_clever_iara/uploads/aws-beginners-challenge_ba6d42ae)
 
 ---
 
